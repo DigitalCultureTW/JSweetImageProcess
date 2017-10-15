@@ -11,16 +11,6 @@
       "jsFilesPaths": []
     },
     {
-      "name": "exif-js",
-      "version": "2.3.0-20171014-1224",
-      "lastUpdateTimestamp": 1507955248000,
-      "modelVersion": "unknown",
-      "transpilerVersion": "2.0.0",
-      "jsOutputDirPath": "C:\\Users\\Jonathan Chang\\Documents\\NetBeansProjects\\Group-JSweet\\JSweetImageTest\\target\\js",
-      "jsDirPath": "META-INF/resources/webjars/exif-js/2.3.0-20171014-1224",
-      "jsFilesPaths": []
-    },
-    {
       "name": "jquery",
       "version": "1.10.0-SNAPSHOT",
       "lastUpdateTimestamp": 1468681526000,
